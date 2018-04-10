@@ -1,0 +1,13 @@
+.jumbotron {
+    text-align: center
+}
+
+
+ul {
+    list-style-position: inside
+}
+
+li {
+    font-size: 1.5em;
+    padding: 5px
+}
